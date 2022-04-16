@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maitri2213
-- 👀 I’m interested in ...app developer
+- 👀 I’m interested in ...software developer
 - 🌱 I’m currently learning ...in b.tech in computer enginnering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
