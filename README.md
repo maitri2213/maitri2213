@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @maitri2213
-- 👀 I’m interested in ...software developer
-- 🌱 I’m currently learning ...in b.tech in computer enginnering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi !👋It's Maitri Patel
+ℹ️ About Me:
+🌏 I'm currently residing in India
+📧 You can contact me through maitripatel2213@gmail.com
+👩‍💻 I'm currently learning DSA, ReactJS
+🤝 I'm looking to collaborate on Web development Projects
 
-<!---
-maitri2213/maitri2213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Socials:
